@@ -1,0 +1,18 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "First nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "TESTE"
+  },
+  "author": "Humberto de Moraes Junior",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "uuid": "^8.3.2"
+  }
+}
